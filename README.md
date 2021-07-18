@@ -8,7 +8,7 @@ composer global require laravel/installer
  ```
 * download code or clone it
 ```
- git clone https: https://github.com/MhdTa/ajax-request-with-Laravel8.git
+ git clone https://github.com/MhdTa/ajax-request-with-Laravel8.git
 ```
 Set database parameter in .env file
 * run migrations
